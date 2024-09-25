@@ -1,0 +1,5 @@
+Sketch uses 1222705 bytes (93%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 52772 bytes (16%) of dynamic memory, leaving 274908 bytes for local variables. Maximum is 327680 bytes.
+
+ESP Version - 2.0.14
+IDE Version - 1.8.19
